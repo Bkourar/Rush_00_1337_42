@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: oessalma <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: bikourar <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/17 19:37:39 by oessalma          #+#    #+#             */
 /*   Updated: 2023/09/17 19:37:41 by oessalma         ###   ########.fr       */
