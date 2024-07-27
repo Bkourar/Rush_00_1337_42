@@ -11,5 +11,6 @@ https://www.youtube.com/watch?v=KVqFc-cwgLY&list=PLZpzLuUp9qXzkVC9zYr6SXxHRKIbzB
 https://www.youtube.com/watch?v=UpVJcbgLXls&list=PLZpzLuUp9qXzkVC9zYr6SXxHRKIbzBaK9&index=47&pp=iAQB
 https://www.youtube.com/watch?v=lDIj9mZc5a4&list=PLZpzLuUp9qXzkVC9zYr6SXxHRKIbzBaK9&index=48&pp=iAQB
 
-this link for concept matric
+this link for concept matrix
+
 https://en.wikipedia.org/wiki/Matrix_(mathematics)
